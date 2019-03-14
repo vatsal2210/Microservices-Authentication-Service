@@ -5,6 +5,6 @@ applications:
     name: wesetern01auth
     buildpack: sdk-for-nodejs
     command: npm start
-    memory: 128MB
+    memory: 80MB
     domain: mybluemix.net
     host: wesetern01-auth
