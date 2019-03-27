@@ -6,6 +6,9 @@ const {
 
 const userController = require("../controller/userController");
 
+router.get('/test', (req, res) => {
+    res.send('Gateway working');
+});
 router.post("/verify",  userController.verify);
 
 router.post(
