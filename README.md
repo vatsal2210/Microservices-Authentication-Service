@@ -1,4 +1,4 @@
-# western-software-microservice-auth
+# Microservices-Authentication-Service
 Authentication service
 
 ## Technologies:
